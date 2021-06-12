@@ -21,8 +21,8 @@ function App() {
               <h1>a year later.</h1>
               <div className="app__letter">
                 <p>Helloooo!</p>
-                <p>First and for most, I want to thank each and everyone of you for all the support <i>Everything Will Be Ok</i> has received this year!
-                  This was my first major and "real" release I've ever done, and it has exceeded all my expectations!</p>
+                <p>First and for most, I want to thank each and everyone of you for all the support <i><a href='https://fanlink.to/ewbok'>Everything Will Be Ok</a></i> has received this year!
+                  This was my first major/"real" release I've ever done, and it has exceeded all my expectations!</p>
                 <p>If you're seeing this, you are beyond integral to that, me and my journey, and for that I love you, beyond words. For real. ❤️</p>
                 <p>I want to give a special shout out to <a href="https://twitter.com/Jpreet_">Jpreet</a>, for all his amazing design work, 
                 the <a href="https://beardgel.ca">Beardgel Crew</a> for hyping up and supporting this release, and of course all of my amazing friends, family, and most of all, listeners.</p>
