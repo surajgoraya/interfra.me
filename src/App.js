@@ -17,7 +17,7 @@ function App() {
             </div>
             <hr/>
             <div className="app__body" style={{ opacity: onBodyComplete ? 1 : 0, animationDelay: 500 + 'ms' }} onAnimationEnd={() => setOnBodyComplete(true)}>
-              <h4>-Jun 12 2021, 00:00 GMT-</h4>
+              <h4>-Jun 12 2021, 00:00:00 EST-</h4>
               <h1>a year later.</h1>
               <div className="app__letter">
                 <p>Helloooo!</p>

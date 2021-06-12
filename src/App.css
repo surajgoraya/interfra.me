@@ -1,7 +1,7 @@
 .App {
   margin: auto;
   width: 100%;  
-  background-color: var(--background);
+  height: 100%;
 }
 
 .app__header{
