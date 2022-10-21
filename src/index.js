@@ -12,13 +12,16 @@ import Redirector from './components/Redirector';
 
 ReactDOM.render(
   <React.StrictMode>
-    <Router>
+    <Router>``
       <Switch>
         <Route exact path="/">
           <App />
         </Route>
         <Route exact path="/ewbok">
           <Redirector href={'https://fanlink.to/ewbok'}/>
+        </Route>
+        <Route exact path="/flowers">
+          <Redirector href={'https://distrokid.com/hyperfollow/jeikatsu/flowers-feat-interframe'}/>
         </Route>
         <Route exact path="*">
           <App />
