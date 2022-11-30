@@ -1,4 +1,3 @@
-import './Page.css';
 
 const Page = (props) =>{
     return (
