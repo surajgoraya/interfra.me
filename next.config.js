@@ -4,8 +4,15 @@ const nextConfig = {
   async redirects() {
     return [
       {
+        //Everything Will Be Ok Redirect.
         source: '/ewbok',
         destination: 'https://fanlink.to/ewbok',
+        permanent: true,
+      },
+      {
+        //okayama. Redirect.
+        source: '/okayama',
+        destination: 'https://fanlink.to/okayama',
         permanent: true,
       },
       {
