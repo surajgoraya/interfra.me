@@ -16,6 +16,12 @@ const nextConfig = {
         permanent: true,
       },
       {
+        //archives01 Redirect.
+        source: '/arc01',
+        destination: 'https://fanlink.to/arc01',
+        permanent: true,
+      },
+      {
         source: '/flowers',
         destination: 'https://distrokid.com/hyperfollow/jeikatsu/flowers-feat-interframe',
         permanent: true,
