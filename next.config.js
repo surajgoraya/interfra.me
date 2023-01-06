@@ -18,7 +18,7 @@ const nextConfig = {
       {
         //archives01 Redirect.
         source: '/arc01',
-        destination: 'https://distrokid.com/hyperfollow/interframe/archives01',
+        destination: 'https://fanlink.to/arc01',
         permanent: true,
       },
       {
