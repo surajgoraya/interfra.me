@@ -6,7 +6,7 @@ import Head from 'next/head';
 
 export default function Home() {
   const [onHeaderComplete, setOnHeaderComplete] = useState(false);
-  const [onBodyComplete, setOnBodyComplete,] = useState(false);
+  const [onBodyComplete, setOnBodyComplete] = useState(false);
 
   return (
     <>
