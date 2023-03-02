@@ -22,6 +22,18 @@ const nextConfig = {
         permanent: true,
       },
       {
+        //new dreams bandcamp friday redirect.
+        source: '/nds-bc',
+        destination: 'https://interframe.bandcamp.com/album/new-dreams',
+        permanent: true,
+      },
+      {
+        //new dreams march 10th steaming redirect.
+        source: '/nds',
+        destination: '/early',
+        permanent: true,
+      },
+      {
         source: '/flowers',
         destination: 'https://distrokid.com/hyperfollow/jeikatsu/flowers-feat-interframe',
         permanent: true,
