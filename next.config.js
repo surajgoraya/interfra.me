@@ -31,7 +31,7 @@ const nextConfig = {
         //new dreams march 10th steaming redirect.
         source: '/nds',
         destination: '/early',
-        permanent: true,
+        permanent: false,
       },
       {
         source: '/flowers',
