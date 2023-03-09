@@ -30,8 +30,8 @@ const nextConfig = {
       {
         //new dreams march 10th steaming redirect.
         source: '/nds',
-        destination: '/early',
-        permanent: false,
+        destination: 'https://beardgel.fanlink.to/nds',
+        permanent: true,
       },
       {
         source: '/flowers',
