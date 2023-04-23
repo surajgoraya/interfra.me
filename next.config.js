@@ -38,6 +38,11 @@ const nextConfig = {
         destination: 'https://distrokid.com/hyperfollow/jeikatsu/flowers-feat-interframe',
         permanent: true,
       },
+      {
+        source: '/seasons',
+        destination: 'https://distrokid.com/hyperfollow/interframe/seasons-change-with-u',
+        permanent: true,
+      },
     ]
   },
 }
