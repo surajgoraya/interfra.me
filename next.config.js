@@ -40,7 +40,7 @@ const nextConfig = {
       },
       {
         source: '/seasons',
-        destination: 'https://distrokid.com/hyperfollow/interframe/seasons-change-with-u',
+        destination: 'https://beardgel.fanlink.to/seasons',
         permanent: true,
       },
     ]
