@@ -43,6 +43,12 @@ const nextConfig = {
         destination: 'https://beardgel.fanlink.to/seasons',
         permanent: true,
       },
+      {
+        //last blossom redirect.
+        source: '/blossom',
+        destination: '/early',
+        permanent: false,
+      },
     ]
   },
 }
