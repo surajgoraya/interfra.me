@@ -46,8 +46,8 @@ const nextConfig = {
       {
         //last blossom redirect.
         source: '/blossom',
-        destination: '/early',
-        permanent: false,
+        destination: 'https://fanlink.to/lastblossom',
+        permanent: true,
       },
     ]
   },
