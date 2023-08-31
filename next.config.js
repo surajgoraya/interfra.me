@@ -4,6 +4,11 @@ const nextConfig = {
   async redirects() {
     return [
       {
+        source: '/',
+        destination: 'https://shop.interfra.me',
+        permanent: false,
+      },
+      {
         //Everything Will Be Ok Redirect.
         source: '/ewbok',
         destination: 'https://fanlink.to/ewbok',
