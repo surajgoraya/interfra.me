@@ -9,6 +9,12 @@ const nextConfig = {
         permanent: false,
       },
       {
+        //Redirect for minato.
+        source: '/minato',
+        destination: '/early',
+        permanent: false,
+      },
+      {
         //Everything Will Be Ok Redirect.
         source: '/ewbok',
         destination: 'https://fanlink.to/ewbok',
