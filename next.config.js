@@ -7,7 +7,7 @@ const nextConfig = {
         //Redirect for minato.
         source: '/minato',
         destination: 'https://fanlink.to/minato',
-        permanent: true,
+        permanent: false,
       },
       {
         //Everything Will Be Ok Redirect.
