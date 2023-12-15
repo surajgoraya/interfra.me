@@ -4,15 +4,10 @@ const nextConfig = {
   async redirects() {
     return [
       {
-        source: '/',
-        destination: 'https://shop.interfra.me',
-        permanent: false,
-      },
-      {
         //Redirect for minato.
         source: '/minato',
-        destination: '/early',
-        permanent: false,
+        destination: 'https://fanlink.to/minato',
+        permanent: true,
       },
       {
         //Everything Will Be Ok Redirect.
