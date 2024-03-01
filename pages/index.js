@@ -25,7 +25,7 @@ export default function Home() {
               </div>
               <div className="app__body">
                 <div className="app__letter">
-                  {"...and then the sense of familiarity faded away."}
+                  {"surrounded by love i do not deserve, selfish isn't it?"}
                 </div>
               </div>
             </div>
