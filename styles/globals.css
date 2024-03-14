@@ -1,4 +1,7 @@
 @import url("./anim.css");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
 :root {
   --background: #101010;

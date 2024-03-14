@@ -6,25 +6,25 @@ const nextConfig = {
       {
         //Redirect for minato.
         source: '/minato',
-        destination: 'https://fanlink.to/minato',
+        destination: 'https://songwhip.com/interframe/minato',
         permanent: false,
       },
       {
         //Everything Will Be Ok Redirect.
         source: '/ewbok',
-        destination: 'https://fanlink.to/ewbok',
+        destination: 'https://songwhip.com/interframe/everything-will-be-ok',
         permanent: true,
       },
       {
         //okayama. Redirect.
         source: '/okayama',
-        destination: 'https://fanlink.to/okayama',
+        destination: 'https://songwhip.com/interframe/okayama',
         permanent: true,
       },
       {
         //archives01 Redirect.
         source: '/arc01',
-        destination: 'https://fanlink.to/arc01',
+        destination: 'https://songwhip.com/interframe/archives01',
         permanent: true,
       },
       {
@@ -36,7 +36,7 @@ const nextConfig = {
       {
         //new dreams march 10th steaming redirect.
         source: '/nds',
-        destination: 'https://beardgel.fanlink.to/nds',
+        destination: 'https://songwhip.com/interframe/new-dreams',
         permanent: true,
       },
       {
@@ -46,13 +46,13 @@ const nextConfig = {
       },
       {
         source: '/seasons',
-        destination: 'https://beardgel.fanlink.to/seasons',
+        destination: 'https://songwhip.com/interframe/seasons-change-with-u',
         permanent: true,
       },
       {
         //last blossom redirect.
         source: '/blossom',
-        destination: 'https://fanlink.to/lastblossom',
+        destination: 'https://songwhip.com/interframe/last-blossom',
         permanent: true,
       },
     ]
