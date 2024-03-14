@@ -34,7 +34,7 @@ export default function Home({ albums }) {
               </div>
               <div className="app__body">
                 <div className="app__letter mt-4">
-                  {"...and then the sense of familiarity faded away."}
+                  {"surrounded by love i do not deserve, selfish isn't it?"}
                 </div>
                 <hr className="mb-[-2] mt-8"/>
                 <div className="app__grid mt-8 grid grid-cols-2 md:grid-cols-4 gap-4 mb-8">
