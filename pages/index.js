@@ -39,7 +39,7 @@ export default function Home({ albums }) {
                 <hr className="mb-[-2] mt-8"/>
                 <div className="app__grid mt-8 grid grid-cols-2 md:grid-cols-4 gap-4 mb-8">
                   {albums.map((album, i) => (
-                    <a className={`animate-loadIn flex flex-col items-center text-center hover:underline focus:underline text-white`} href={album.link} aria-description={`A link to Interframe's album ${album.title}`}>
+                    <a key={`album-${i}`} className={`animate-loadIn flex flex-col items-center text-center hover:underline focus:underline text-white`} href={album.link} aria-description={`A link to Interframe's album ${album.title}`}>
                       <Image
                         src={album.image}
                         height={200}
